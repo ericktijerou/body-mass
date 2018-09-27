@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/body_mass.iml" filepath="$PROJECT_DIR$/body_mass.iml" />
+      <module fileurl="file://$PROJECT_DIR$/body_mass_android.iml" filepath="$PROJECT_DIR$/body_mass_android.iml" />
+    </modules>
+  </component>
+</project>
